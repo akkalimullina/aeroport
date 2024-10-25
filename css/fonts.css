@@ -1,0 +1,74 @@
+@font-face {
+    font-family: "Aeroport-black-italic";
+    src: url("../Aeroport-trial/Aeroport-black-italic.otf") format(opentype);
+    font-weight: bolder;
+    font-style: bold italic;
+}
+
+@font-face {
+    font-family: "Aeroport-black";
+    src: url("../Aeroport-trial/Aeroport-black.otf") format(opentype);
+    font-weight: bolder;
+    font-style: bold;
+}
+
+@font-face {
+    font-family: "Aeroport-bold-italic";
+    src: url("../Aeroport-trial/Aeroport-bold-italic.otf") format(opentype);
+    font-weight: bold;
+    font-style: bold italic;
+}
+
+@font-face {
+    font-family: "Aeroport-bold";
+    src: url("../Aeroport-trial/Aeroport-bold.otf") format(opentype);
+    font-weight: bold;
+    font-style: bold;
+}
+
+@font-face {
+    font-family: "Aeroport-light-italic";
+    src: url("../Aeroport-trial/Aeroport-light-italic.otf") format(opentype);
+    font-weight: light;
+    font-style: light italic;
+}
+
+@font-face {
+    font-family: "Aeroport-light";
+    src: url("../Aeroport-trial/Aeroport-light.otf") format(opentype);
+    font-weight: light;
+    font-style: light;
+}
+
+@font-face {
+    font-family: "Aeroport-medium-italic";
+    src: url("../Aeroport-trial/Aeroport-medium-italic.otf") format(opentype);
+    font-weight: medium;
+    font-style: medium italic;
+}
+
+@font-face {
+    font-family: "Aeroport-medium";
+    src: url("../Aeroport-trial/Aeroport-medium.otf") format(opentype);
+    font-weight: medium;
+    font-style: medium;
+}
+
+@font-face {
+    font-family: "Aeroport-monospaced";
+    src: url("../Aeroport-trial/Aeroport-monospaced.otf") format(opentype);
+}
+
+@font-face {
+    font-family: "Aeroport-regular-italic";
+    src: url("../Aeroport-trial/Aeroport-regular-italic.otf") format(opentype);
+    font-weight: normal;
+    font-style: normal italic;
+}
+
+@font-face {
+    font-family: "Aeroport-regular";
+    src: url("../Aeroport-trial/Aeroport-regular.otf") format(opentype);
+    font-weight: normal;
+    font-style: normal;
+}
